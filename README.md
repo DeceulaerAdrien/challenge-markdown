@@ -1,7 +1,7 @@
 # Deceulaer Adrien
-*Humor is like coffee: best very dark.*
 
-![](https://raw.githubusercontent.com/DeceulaerAdrien/H-berge-perso/main/Assets/Photo%20pro.png)
+> *Humor is like coffee: best very dark.*
+> ![](https://raw.githubusercontent.com/DeceulaerAdrien/H-berge-perso/main/Assets/Photo%20pro.png)
 
 I am ordained,Patient and hungry
 
@@ -10,7 +10,7 @@ I am ordained,Patient and hungry
 | Gender              | Mâle                                                  |
 | Favorite color      | Blue                                                  |
 | Favorite food       | Curry rise of my mother                               |
-| Pinneapple on pizza | <input type="checkbox" checked><input type="checkbox" unchecked> |
+| Pinneapple on pizza | <ul><li> [ ] Yes</li></ul> <ul><li> [x] No </li></ul> |
 
 ### Hobbies
 
