@@ -40,4 +40,4 @@ They’ve been laughing at me for 18 years
 An ignorant child will always say nonsense that will follow him all his life. 
 And I know what I’m talking about
 
-<< [](https://patgit-design.github.io/Challenge-Markdown/) | Deceulaer Adrien | [] (https://github.com/DegimbeLaurent/challenge-markdown/blob/main/README.md) >>
+<< [Previous](https://patgit-design.github.io/Challenge-Markdown/) || Deceulaer Adrien || [Next](https://github.com/DegimbeLaurent/challenge-markdown/blob/main/README.md) >>
