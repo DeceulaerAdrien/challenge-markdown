@@ -10,7 +10,7 @@ I am ordained,Patient and hungry
 | Gender              | Mâle                                                  |
 | Favorite color      | Blue                                                  |
 | Favorite food       | Curry rise of my mother                               |
-| Pinneapple on pizza | <ul><li> [ ] Yes</li></ul> <ul><li> [x] No </li></ul> |
+| Pinneapple on pizza | <input type="checkbox" checked><input type="checkbox" unchecked> |
 
 ### Hobbies
 
