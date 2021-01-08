@@ -7,7 +7,6 @@
 I am ordained,Patient and hungry
 
 | Birthday            | 19/08                                                 |
-| ------------------- | ----------------------------------------------------- |
 | Gender              | Mâle                                                  |
 | Favorite color      | Blue                                                  |
 | Favorite food       | Curry rise of my mother                               |
