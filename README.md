@@ -21,7 +21,7 @@ I am ordained,Patient and hungry
   - Hans Zimmer
   - John Williams
   - Ac / Dc
-  - Jhon Lennon
+  - John Lennon
 
 ### You can always count on me when you dont know
 
